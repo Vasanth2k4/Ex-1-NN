@@ -1,7 +1,7 @@
-<H3>Name: ALAGU NACHIYAR K</H3>
-<H3>REGISTER NO. 212222240006</H3>
+<H3>Name:VASANTHARAJ J K</H3>
+<H3>REGISTER NO.212223230235</H3>
 <H3>EX. NO.1</H3>
-<H3>DATE: 19-08-2024</H3>
+<H3>DATE: 23-08-2024</H3>
 <H1 ALIGN > Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
